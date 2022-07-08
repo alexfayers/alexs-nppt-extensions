@@ -34,5 +34,6 @@
     "bugs": {
         "url": "https://github.com/alexfayers/alexs-nppt-extensions/issues"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "publisher": "alexfayers"
 }
