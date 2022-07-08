@@ -22,5 +22,17 @@
         "njqdev.vscode-python-typehint", 
         "VisualStudioExptTeam.intellicode-api-usage-examples", 
         "VisualStudioExptTeam.vscodeintellicode"
-    ]
+    ],
+    "author": {
+        "name": "Alex Fayers",
+        "url": "https://github.com/alexfayers"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexfayers/alexs-nppt-extensions"
+    },
+    "bugs": {
+        "url": "https://github.com/alexfayers/alexs-nppt-extensions/issues"
+    },
+    "license": "MIT"
 }
