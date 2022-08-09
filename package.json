@@ -11,9 +11,11 @@
     ],
     "extensionPack": [ 
         "aaron-bond.better-comments", 
+        "cschleiden.vscode-github-actions",
         "donjayamanne.githistory", 
         "eamodio.gitlens", 
         "GitHub.vscode-pull-request-github", 
+        "Gruntfuggly.todo-tree",
         "KevinRose.vsc-python-indent", 
         "magicstack.MagicPython", 
         "ms-python.python", 
