@@ -23,7 +23,8 @@
         "njpwerner.autodocstring", 
         "njqdev.vscode-python-typehint", 
         "VisualStudioExptTeam.intellicode-api-usage-examples", 
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "the-compiler.python-tox"
     ],
     "author": {
         "name": "Alex Fayers",
