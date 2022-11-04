@@ -2,7 +2,7 @@
     "name": "alexs-nppt-extensions",
     "displayName": "Alex's New Python Project Template - Extensions",
     "description": "Recommended vscode extensions for use with Alex's New Python Project Template (https://github.com/alexfayers/new_python_project)",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.69.0"
     },
